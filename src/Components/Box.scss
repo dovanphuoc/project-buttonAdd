@@ -1,0 +1,14 @@
+$white: #fff;
+.box-wrap {
+    margin-top: 10px;
+}
+.button {
+    margin-right: 10px;
+    color: $white;
+    padding: 10px 15px;
+    background: orangered;
+    transition: .3s ease;
+    &:hover {
+        background: gray;
+    }
+}

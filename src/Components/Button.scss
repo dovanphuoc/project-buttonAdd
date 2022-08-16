@@ -1,0 +1,10 @@
+$white: #fff;
+.btn {
+    color: $white;
+    padding: 11px 10px;
+    background: rgb(214, 81, 81);
+    transition: .3s ease;
+    &:hover {
+        background: rgb(118, 118, 200);
+    }
+}
